@@ -1,0 +1,6 @@
+{
+  "name": "SAUCE GOLD - ระบบจัดการผลิตและขายส่งน้ำซุป",
+  "description": "ระบบบริหารจัดการโรงงานและจัดจำหน่ายน้ำซุปเข้มข้นขายส่งและขายปลีก แบรนด์ SAUCE GOLD รองรับ Lot, FIFO, BOM, COGS, เอกสารการขาย B2B, เครดิตเทอม, ขนส่ง และของตีกลับ/เสียหาย",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
